@@ -5,5 +5,5 @@ how to implement a splash screen in Flutter App
 # splash_screen UI
 ![splash_screen_UI](/preview00.png)
 
-# show splash screen
-![splash_screen_UI](/preview.gif)
+# splash screen Test
+![splash_screen_TEST](/preview.gif)
