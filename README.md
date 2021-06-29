@@ -1,6 +1,6 @@
-# splash_screen
+# Splash_screen
 
-A new Flutter project.
+how to implement a splash screen in Flutter App
 
 # splash_screen UI
 ![splash_screen_UI](/preview00.png)
